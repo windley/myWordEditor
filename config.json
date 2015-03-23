@@ -1,4 +1,4 @@
 {
-	"urlTwitterServer": "http://nodeserver.byu.edu:8080/",
+	"urlTwitterServer": "http://nodestorage.byu.edu:8080/",
 	"urlDefaultImage": "http://scripting.com/2015/03/21/gratefulDead.png"
 	}
